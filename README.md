@@ -1,4 +1,4 @@
-![Banner](https://postimg.cc/0b9Kpb7W)
+![Banner](banner.png)
 
 - 👋 Hi, I’m Tarun
 - I like coding and designing
