@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Gupta</h1>
 <h3 align="center">Tech enthusiast specializing in Cloud Computing with a passion for designing</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vaibhavsingh79&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsingh79" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=Profile%20views&color=0e75b6&style=flat" alt="MaybeTarun" /> </p>
 
 - I'm a 3rd BTech student at Bennett University, specializing in Cloud Computing. My passion for technology and drive to impact the industry have led me to learn and grow continuously. When I'm not hitting the books, I'm working with various clubs on campus, exploring new projects, and collaborating with like-minded individuals.
 
