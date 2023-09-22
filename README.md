@@ -45,8 +45,13 @@ const Tarun = {
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 <p align="center">
     <img width="500" src="https://media.tenor.com/SKBPCpn9q18AAAAC/catopia-catopia-rush.gif" alt="Bread Cat">
+</p>
+<br/>
+<p align="right">
+  *Yes I also like cats (obviously)
 </p>
