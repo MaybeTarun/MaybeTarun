@@ -3,7 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=Profile%20views&color=0e75b6&style=flat" alt="MaybeTarun" /> </p>
 
->[My Linktree](https://linktr.ee//maybeTarun)
 ----
 
 - I'm a 3rd yr BTech student at Bennett University, specializing in Cloud Computing.
@@ -37,6 +36,7 @@ const Tarun = {
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MaybeTarun&show_icons=true&theme=radical&locale=en" alt="MaybeTarun" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeTarun&layout=compact&show_icons=true&theme=radical" alt="MaybeTarun" /></p>
+<br/>
 <p align="center">
     <img width="500" src="https://media.tenor.com/SKBPCpn9q18AAAAC/catopia-catopia-rush.gif" alt="Bread Cat">
 </p>
