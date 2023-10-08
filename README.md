@@ -53,5 +53,5 @@ const Tarun = {
 </p>
 <br/>
 <p align="right">
-  *Yes I also like cats (obviously)
+  *Yes I like cats too (obviously)
 </p>
