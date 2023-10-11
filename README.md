@@ -15,7 +15,8 @@
 const Tarun = {
   pronouns: "he" | "him",
   languages: [Python, C++, HTML, CSS, Javascript, Kotlin, Solidity, MySQL],
-  tools: [Tailwind, Bootstrap, Figma, Photoshop, AWS, Jest, Docker],
+  tools: [Figma, Photoshop, Illustrator, AWS],
+  frameworks: [Tailwind, Bootstrap, ReactJS, NodeJS, ThreeJS(learning)],
   qualities: ["funny", "problem-solving", "creative"],
   fun fact: "I am Bread 🍞"
 }
