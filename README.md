@@ -11,6 +11,8 @@
 
 - I'm excited to be a part of the tech community on GitHub and would love to connect with fellow tech enthusiasts, professionals, and companies. Let's connect and see how we can help each other grow!
 
+- I freelance btw (If u wanna hire me check out my [Upwork](https://www.upwork.com/freelancers/~01993e267b8aac12fd))
+
 ```javascript
 const Tarun = {
   pronouns: "he" | "him",
