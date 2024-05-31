@@ -26,7 +26,7 @@ const Tarun = {
 ----
 
 ### You can find me on the web 🌍
-[![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://maybetarun.github.io/Portfolio.github.io/)](https://maybetarun.github.io/Portfolio.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://maybetarun.vercel.app/)](https://maybetarun.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-@MaybeTarun-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MaybeTarun/)](http://www.linkedin.com/in/maybetarun)
 [![Instagram Badge](https://img.shields.io/badge/-@maybe.__.tarun-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/maybe._.tarun/)](https://instagram.com/maybe._.tarun)
 [![Medium Badge](https://img.shields.io/badge/-@MaybeTarun-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@maybetarun)](https://medium.com/@maybetarun)
