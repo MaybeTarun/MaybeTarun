@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Gupta</h1>
-<h3 align="center">Developer and Designer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=Profile%20views&color=0e75b6&style=flat" alt="MaybeTarun" /> </p>
 
@@ -11,7 +11,7 @@
 
 - I'm excited to be a part of the tech community on GitHub and would love to connect with fellow tech enthusiasts, professionals, and companies. Let's connect and see how we can help each other grow!
 
-- I freelance btw (If u wanna hire me check out my [Upwork](https://www.upwork.com/freelancers/~01993e267b8aac12fd))
+- I freelance btw ([freelance.maybetarun.in](https://freelance.maybetarun.in/))
 
 ```javascript
 const Tarun = {
