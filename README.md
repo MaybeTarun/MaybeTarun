@@ -1,4 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=views&color=0d47d4&style=for-the-badge" alt="MaybeTarun" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=views&color=0d47d4&style=for-the-badge" alt="MaybeTarun" />
+</p>
+
+<br/>
 
 <div align="center">
   
@@ -12,8 +16,6 @@
 <div align="center">
   <picture><img alt="alt" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/divider.svg"></picture>
 </div>
-
-
 
 
 
