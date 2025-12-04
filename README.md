@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tarun Gupta</h1>
-<h3 align="center">Frontend Developer</h3>
+<div align="center">
+  
+  [![Heading](https://github.com/MaybeTarun/MaybeTarun/blob/main/test.svg)](https://maybetarun.in/)
+</div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=Profile%20views&color=0e75b6&style=flat" alt="MaybeTarun" /> </p>
 
