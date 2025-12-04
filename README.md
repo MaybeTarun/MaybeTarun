@@ -29,6 +29,16 @@
   <picture><img alt="snake" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/snake.svg"></picture>
 </div>
 
+# Projects
+
+<br/>
+
+<div align="center">
+  <picture><img alt="skills" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/projects.svg"></picture>
+</div>
+
+<br/>
+
 
 <!-- <p align="center">
     <img width="500" src="https://media.tenor.com/SKBPCpn9q18AAAAC/catopia-catopia-rush.gif" alt="Bread Cat">
