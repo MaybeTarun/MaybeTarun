@@ -43,11 +43,13 @@
 
 <br/>
 
-### You can find me on the web 🌍
-[![Website Badge]()](https://maybetarun.in/)
-[![Linkedin Badge]()](http://www.linkedin.com/in/maybetarun)
-[![Twitter Badge]()](https://twitter.com/maybetarun)
-[![Email Badge]()](mailto:tarun234.tg@gmail.com)
+<div align="center">
+  
+  [![Website Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnweb.svg)](https://maybetarun.in/)
+  [![Linkedin Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnlinkedin.svg)](http://www.linkedin.com/in/maybetarun)
+  [![Twitter Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnx.svg)](https://twitter.com/maybetarun)
+  [![Email Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnemail.svg)](mailto:tarun234.tg@gmail.com)
+</div>
 
 <br/>
 
