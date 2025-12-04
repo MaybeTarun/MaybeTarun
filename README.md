@@ -17,7 +17,13 @@
   <picture><img alt="alt" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/divider.svg"></picture>
 </div>
 
+<br/>
+<br/>
+<br/>
 
+<div align="center">
+  <picture><img alt="alt" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/image.svg"></picture>
+</div>
 
 <!-- <div align="center">
   
