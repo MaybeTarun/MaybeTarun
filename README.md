@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <picture><img alt="divider" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/divider.svg"></picture>
+  <picture><img alt="divider" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/subheading.svg"></picture>
 </div>
 
 # Skills
@@ -27,6 +27,10 @@
 
 <div align="center">
   <picture><img alt="snake" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/snake.svg"></picture>
+</div>
+
+<div align="center">
+  <picture><img alt="divider" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/divider.svg"></picture>
 </div>
 
 # Projects
