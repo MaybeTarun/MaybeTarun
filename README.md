@@ -6,13 +6,14 @@
 
 <div align="center">
   
-  [![Heading](https://github.com/MaybeTarun/MaybeTarun/blob/main/heading.svg)](https://maybetarun.in/)
+  [![Heading](https://github.com/MaybeTarun/MaybeTarun/blob/main/heading.svg)](https://www.maybetarun.in/)
 </div>
 
 <br/>
 
 <div align="center">
-  <picture><img alt="divider" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/subheading.svg"></picture>
+  
+  [![SubHeading](https://github.com/MaybeTarun/MaybeTarun/blob/main/subheading.svg)](https://freelance.maybetarun.in/)
 </div>
 
 # Skills
@@ -34,7 +35,8 @@
 <br/>
 
 <div align="center">
-  <picture><img alt="skills" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/projects.svg"></picture>
+  
+  [![Projects](https://github.com/MaybeTarun/MaybeTarun/blob/main/projects.svg)](https://www.maybetarun.in/projects)
 </div>
 
 <br/>
