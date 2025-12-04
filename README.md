@@ -50,6 +50,11 @@ const Tarun = {
 <br/>
 <br/>
 
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
 
 <p align="center">
     <img width="500" src="https://media.tenor.com/SKBPCpn9q18AAAAC/catopia-catopia-rush.gif" alt="Bread Cat">
