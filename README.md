@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <picture><img alt="alt" src=""></picture>
+  <picture><img alt="alt" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/divider.svg"></picture>
 </div>
 
 
