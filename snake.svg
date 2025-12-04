@@ -482,10 +482,6 @@
   <rect class="c" x="834" y="98" rx="2" ry="2"/>
   <rect class="c" x="834" y="114" rx="2" ry="2"/>
   <rect class="c" x="834" y="-14" rx="2" ry="2"/>
-  <rect class="u u0" height="12" width="667.6" x="0.0" y="144"/>
-  <rect class="u u1" height="12" width="162.6" x="667.0" y="144"/>
-  <rect class="u u2" height="12" width="10.1" x="828.9" y="144"/>
-  <rect class="u u3" height="12" width="10.1" x="838.5" y="144"/>
   <rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
   <rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/>
   <rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/>
