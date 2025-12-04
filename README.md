@@ -43,9 +43,11 @@
 
 <br/>
 
-<div align="center">
-  <picture><img alt="skills" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/skills.svg"></picture>
-</div>
+### You can find me on the web 🌍
+[![Website Badge]()](https://maybetarun.in/)
+[![Linkedin Badge]()](http://www.linkedin.com/in/maybetarun)
+[![Twitter Badge]()](https://twitter.com/maybetarun)
+[![Email Badge]()](mailto:tarun234.tg@gmail.com)
 
 <br/>
 
