@@ -37,7 +37,7 @@ const Tarun = {
 
 ----
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MaybeTarun&show_icons=true&theme=radical&locale=en" alt="MaybeTarun" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MaybeTarun&show_icons=true&theme=radical&locale=en" alt="MaybeTarun" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeTarun&layout=compact&show_icons=true&theme=radical" alt="MaybeTarun" /></p>
 <br/>
 <br/>
@@ -48,11 +48,14 @@ const Tarun = {
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> -->
 
 <div align="center">
-    
-  ![snake gif](https://github.com/MaybeTarun/MaybeTarun/blob/main/snake.svg)
+  ![testing](https://github.com/MaybeTarun/MaybeTarun/blob/main/test.svg)
+</div>
+
+<div align="center">
+  ![snake](https://github.com/MaybeTarun/MaybeTarun/blob/main/snake.svg)
 </div>
 
 
