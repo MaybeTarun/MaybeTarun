@@ -20,9 +20,47 @@
 <br/>
 <br/>
 
+# Skills
+
 <div align="center">
-  <picture><img alt="alt" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/image.svg"></picture>
+
+  <picture><img alt="ReactJs" src="https://skillicons.dev/icons?i=react"></picture>
+  <picture><img alt="NextJs" src="https://skillicons.dev/icons?i=next"></picture>
+  <picture><img alt="ExpressJs" src="https://skillicons.dev/icons?i=express"></picture>
+  <picture><img alt="NodeJs" src="https://skillicons.dev/icons?i=nodejs"></picture>
+  <picture><img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"></picture>
+  <picture><img alt="ThreeJs" src="https://skillicons.dev/icons?i=threejs"></picture>
+  <picture><img alt="HTML" src="https://skillicons.dev/icons?i=html"></picture>
+  <picture><img alt="CSS" src="https://skillicons.dev/icons?i=css"></picture>
+  <picture><img alt="Javascript" src="https://skillicons.dev/icons?i=js"></picture>
+  <picture><img alt="Typescript" src="https://skillicons.dev/icons?i=ts"></picture>
+  <picture><img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind"></picture>
+  <picture><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></picture>
+  <picture><img alt="ReactNative" src="https://skillicons.dev/icons?i=react"></picture>
+  <picture><img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"></picture>
+  <picture><img alt="Flutter" src="https://skillicons.dev/icons?i=flutter"></picture>
+  <picture><img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"></picture>
+
 </div>
+
+<div align="center">
+
+  <picture><img alt="AWS" src="https://skillicons.dev/icons?i=aws"></picture>
+  <picture><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"></picture>
+  <picture><img alt="Azure" src="https://skillicons.dev/icons?i=azure"></picture>
+  <picture><img alt="Python" src="https://skillicons.dev/icons?i=python"></picture>
+  <picture><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></picture>
+  <picture><img alt="Java" src="https://skillicons.dev/icons?i=java"></picture>
+  <picture><img alt="Latex" src="https://skillicons.dev/icons?i=latex"></picture>
+  <picture><img alt="Solidity" src="https://skillicons.dev/icons?i=solidity"></picture>
+  <picture><img alt="Figma" src="https://skillicons.dev/icons?i=figma"></picture>
+  <picture><img alt="Photoshop" src="https://skillicons.dev/icons?i=ps"></picture>
+  <picture><img alt="Illustrator" src="https://skillicons.dev/icons?i=ai"></picture>
+  <picture><img alt="Blender" src="https://skillicons.dev/icons?i=blender"></picture>
+
+</div>
+
+
 
 <!-- <div align="center">
   
