@@ -1,8 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=views&color=0d47d4&style=for-the-badge" alt="MaybeTarun" /> </p>
 
 <div align="center">
-  
-  [![Heading](https://github.com/MaybeTarun/MaybeTarun/blob/main/heading.svg)](https://maybetarun.in/)
+  <a href="https://maybetarun.in/" target="_blank">
+    <img src="https://github.com/MaybeTarun/MaybeTarun/blob/main/heading.svg" alt="Heading">
+  </a>
 </div>
 
 ----
