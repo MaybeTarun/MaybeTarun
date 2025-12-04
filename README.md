@@ -5,10 +5,9 @@
   [![Heading](https://github.com/MaybeTarun/MaybeTarun/blob/main/heading.svg)](https://maybetarun.in/)
 </div>
 
-
-
-
-
+<div align="center">
+  <picture><img alt="alt" src=""></picture>
+</div>
 
 
 
