@@ -52,7 +52,7 @@ const Tarun = {
 
 <div align="center">
     
-  ![snake gif](https://github.com/MaybeTarun/MaybeTarun/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/MaybeTarun/MaybeTarun/blob/main/snake.svg)
 </div>
 
 
