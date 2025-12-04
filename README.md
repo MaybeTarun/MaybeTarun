@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Heading](https://github.com/MaybeTarun/MaybeTarun/blob/main/test.svg)](https://maybetarun.in/)
+  [![Heading](https://github.com/MaybeTarun/MaybeTarun/blob/main/heading.svg)](https://maybetarun.in/)
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MaybeTarun&label=Profile%20views&color=0e75b6&style=flat" alt="MaybeTarun" /> </p>
@@ -51,11 +51,6 @@ const Tarun = {
 <br/>
 <br/>
 <br/> -->
-
-<div align="center">
-  
-  ![testing](https://github.com/MaybeTarun/MaybeTarun/blob/main/test.svg)
-</div>
 
 <div align="center">
   
