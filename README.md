@@ -51,10 +51,12 @@ const Tarun = {
 <br/> -->
 
 <div align="center">
+  
   ![testing](https://github.com/MaybeTarun/MaybeTarun/blob/main/test.svg)
 </div>
 
 <div align="center">
+  
   ![snake](https://github.com/MaybeTarun/MaybeTarun/blob/main/snake.svg)
 </div>
 
