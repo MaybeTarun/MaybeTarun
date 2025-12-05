@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <picture><img alt="skills" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/skillsL.svg"></picture>  <picture><img alt="skills" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/skillsR.svg"></picture>
+  <picture><img alt="skills" src="https://github.com/MaybeTarun/MaybeTarun/blob/main/skills.svg"></picture></picture>
 </div>
 
 <br/>
