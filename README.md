@@ -46,8 +46,8 @@
 <div align="center">
   
   [![Website Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnweb.svg)](https://maybetarun.in/)
-  [![Linkedin Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnlinkedin.svg)](http://www.linkedin.com/in/maybetarun)
   [![Twitter Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnx.svg)](https://twitter.com/maybetarun)
+  [![Linkedin Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnlinkedin.svg)](http://www.linkedin.com/in/maybetarun)
   [![Email Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnemail.svg)](mailto:tarun234.tg@gmail.com)
 </div>
 
