@@ -55,6 +55,31 @@
 
 <br/>
 
-<!-- <p align="center">
-    <img width="500" src="https://media.tenor.com/SKBPCpn9q18AAAAC/catopia-catopia-rush.gif" alt="Bread Cat">
-</p> -->
+<p align="center">
+  <a href="https://github.com/maybetarun">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maybetarun&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Contribution Graph"/>
+  </a>
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maybetarun&theme=algolia" width="98%"/>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maybetarun&theme=algolia" width="100%"/>
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maybetarun&theme=algolia" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maybetarun&theme=algolia" width="100%"/>
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maybetarun&theme=algolia" width="100%"/>
+</td>
+</tr>
+</table>
