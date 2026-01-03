@@ -53,6 +53,8 @@
   [![Email Badge](https://github.com/MaybeTarun/MaybeTarun/blob/main/btnemail.svg)](mailto:tarun234.tg@gmail.com)
 </div>
 
+## Stats
+
 <br/>
 
 <p align="center">
